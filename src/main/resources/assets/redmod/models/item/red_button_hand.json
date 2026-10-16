@@ -1,7 +1,6 @@
 {
-	"format_version": "1.9.0",
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
 	"textures": {
 		"0": "redmod:item/red_button_hand",
 		"particle": "redmod:item/red_button_hand"
